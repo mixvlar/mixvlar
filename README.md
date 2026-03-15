@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Vladislav 👋
 
-<!--
-**mixvlar/mixvlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏛 About Me
+- 🎓 Student at **BMSTU (Bauman Moscow State Technical University)**
+- 🏫 Faculty: **RK6** (Computer Systems and Networks)
+- 📍 Based in **Moscow, Russia**
+- 🎯 Aiming to specialize in **Network Programming**
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python 🐍, C++ ⚙️
+- **Interests:** Socket programming, Network protocols, System architecture
+- **Status:** Open to interaction and interesting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"Building efficient networks, one packet at a time."* 🌐
