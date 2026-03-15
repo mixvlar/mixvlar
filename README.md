@@ -9,7 +9,7 @@
 ### 🛠 Tech Stack
 - **Languages:** Python 🐍, C++ ⚙️
 - **Interests:** Socket programming, Network protocols, System architecture
-- **Status:** Open to interaction and interesting projects
+- **Status:** Open to interaction and interesting projects (tg: @mixvlar)
 
----
-*"Building efficient networks, one packet at a time."* 🌐
+
+
