@@ -2,9 +2,9 @@
 
 ### 🏛 About Me
 - 🎓 Student at **BMSTU (Bauman Moscow State Technical University)**
-- 🏫 Faculty: **RK6** (Computer Systems and Networks)
+- 🏫 Faculty: **RK6** (Computer-Aided Design Systems)
 - 📍 Based in **Moscow, Russia**
-- 🎯 Aiming to specialize in **Network Programming**
+- 🎯 Aiming to specialize in Distributed **Systems and Software Engineering**
 
 ### 🛠 Tech Stack
 - **Languages:** Python 🐍, C++ ⚙️
