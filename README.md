@@ -1,10 +1,14 @@
 # Hi there, I'm Vladislav 👋
 
 ![LeetCode](https://leetcard.jacoblin.cool/mixvlar1?theme=dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mixvlar&show_icons=true&theme=tokyonight)
-https://streak-stats.demolab.com/
-https://github-readme-stats.vercel.app/api/top-langs/?username=mixvlar
-https://github-profile-trophy.vercel.app/
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixvlar&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mixvlar&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mixvlar&theme=tokyonight)
 
 ![Python]
 ![C++]
