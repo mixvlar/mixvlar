@@ -1,5 +1,17 @@
 # Hi there, I'm Vladislav 👋
+
 ![LeetCode](https://leetcard.jacoblin.cool/mixvlar1?theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mixvlar&show_icons=true&theme=tokyonight)
+https://streak-stats.demolab.com/
+https://github-readme-stats.vercel.app/api/top-langs/?username=mixvlar
+https://github-profile-trophy.vercel.app/
+
+![Python]
+![C++]
+![PostgreSQL]
+![Docker]
+![Git]
+
 ### 🏛 About Me
 - 🎓 Student at **BMSTU (Bauman Moscow State Technical University)**
 - 🏫 Faculty: **RK6** (Computer-Aided Design Systems)
