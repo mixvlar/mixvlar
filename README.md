@@ -1,5 +1,5 @@
 # Hi there, I'm Vladislav 👋
-
+![LeetCode](https://leetcard.jacoblin.cool/mixvlar1?theme=dark)
 ### 🏛 About Me
 - 🎓 Student at **BMSTU (Bauman Moscow State Technical University)**
 - 🏫 Faculty: **RK6** (Computer-Aided Design Systems)
