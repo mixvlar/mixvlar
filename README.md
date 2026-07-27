@@ -1,7 +1,6 @@
 # Hi there, I'm Vladislav 👋
 
 ![LeetCode](https://leetcard.jacoblin.cool/mixvlar1?theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=mixvlar&theme=tokyonight)
 
 **My skills:**
 
