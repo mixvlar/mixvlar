@@ -1,7 +1,7 @@
 # Hi there, I'm Vladislav 👋
 
 ![LeetCode](https://leetcard.jacoblin.cool/mixvlar1?theme=dark)
-
+<img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=mixvlar1" width="100%" alt="LeetCode" />
 **My skills:**
 
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,postgres,docker,git)
